@@ -3,6 +3,8 @@ body{
     margin: 0;
 }
 
+
+
 a{
     text-decoration: none;
   
@@ -48,6 +50,7 @@ h1{
 
 h2{
 
+    padding-left: 10px;
     font-size: 22px;
     display: inline-block;
 
