@@ -5,6 +5,7 @@ body{
 
 
 
+
 a{
     text-decoration: none;
   
@@ -20,7 +21,7 @@ a{
 }
 
 .logo{
-    color: #F13402;
+    color:#F13402;
     display: flex;
     align-items: center;
 }
@@ -29,8 +30,10 @@ a{
     height: 90px;
     padding-right: 10px;
 }
-#p1{
-    margin: 0;
+p {
+    
+display: inline;
+padding-left: 10px;
 }
 
 nav a {
@@ -62,6 +65,43 @@ h2{
 
 }
 
+#loinstagram{
+
+    width: 50px;
+    height: 50px;
+    padding-left: 10px;
+
+}
+
+
+#plogoi{
+
+    color: black;
+    padding: 10px;
+
+}
+
+
+
+
+
+#lofacebook{
+
+    width: 50px;
+    height: 50px;
+    padding-left: 10px;
+
+}
+
+
+
+
+#plogof{
+
+    color: black;
+    padding: 10px;
+
+}
 
 @media (max-width:700px){
     header{
